@@ -1,0 +1,12 @@
+.navigation{
+    width: 100%;
+    padding: 4rem;
+    background: rgba(168, 124, 124, 0.6);
+    position: fixed;
+}
+
+.navigation__logo{
+    font-size: 7rem;
+    color: #eee;
+}
+
